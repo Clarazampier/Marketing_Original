@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    background-color: #000;
+}
+#img1{
+    width: 600px;
+    height: 163px;
+}
+#p1{
+    color:#00A857;
+    width: 439px;
+    height: 68px;
+    left: 60px;
+    top: 163px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+#p2{
+    width: 89px;
+    height: 23px;
+    left: 60px;
+    top: 291px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+}
+#p3{
+    width: 453px;
+    height: 71px;
+    left: 60px;
+    top: 374px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+#carteira{
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 505px;
+}
+#p4{
+    width: 317px;
+    height: 23px;
+    left: 146px;
+    top: 522px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+#tarifa-z{
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 581px;
+}
+#p5{
+    width: 367px;
+    height: 46px;
+    left: 146px;
+    top: 586px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+#tarifa{
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 657px;
+}
+#p6{
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 662px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+#cashback{
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 733px;
+}
+#p7{
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 738px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+#top{
+    width: 600px;
+    height: 131px;
+    left: 0px;
+    top: 844px;
+}
+#portabilidade{
+    width: 600px;
+    height: 576px;
+    left: 0px;
+    top: 975px;
+}
+#completo{
+    width: 600px;
+    height: 272px;
+    left: 0px;
+    top: 1551px;
+}
+#retangulo{
+    width: 600px;
+    height: 612px;
+    left: 0px;
+    top: 1824px;
+    background: #FFFFFF;
+}
+#footer{
+    width: 540px;
+    height: 96.72px;
+    left: 30px;
+    top: 1853px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+#seguir{
+    width: 185px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 35px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00A857;
+}
+#tt{
+    width: 25px;
+height: 25px;
+left: 368px;
+top: 1983px;
+}
+#face{
+    width: 25px;
+height: 25px;
+left: 403px;
+top: 1983px;
+}
+#insta{
+    width: 25px;
+height: 25px;
+left: 438px;
+top: 1983px;
+}
+#in{
+    width: 25px;
+height: 25px;
+left: 473px;
+top: 1983px;
+}
+#ytb{
+    width: 25px;
+height: 25px;
+left: 508px;
+top: 1983px;
+}
+#retangulo2{
+    width: 540px;
+height: 296px;
+left: 30px;
+top: 2050px;
+background: #F6F6F6;
+border-radius: 10px;
+}
+#p8{
+    width: 474px;
+height: 242px;
+left: 63px;
+top: 2078px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+color: #4A4B4A;
+text-align: center;
+}
